@@ -28,7 +28,7 @@ on:
           - custom
           - testing
           - bypass
-        default: custom
+        default: a16-6-12
       feature_set:
         description: "Feature Set"
         type: choice
